@@ -42,7 +42,7 @@ data = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 shifts = 5
 
 for i in range(shifts):
-    swap = data[len(data)-1]
+    swap = data[-1]
     for j in range(len(data)-1, 0, -1):
         data[j] = data[j-1]
     data[0] = swap
