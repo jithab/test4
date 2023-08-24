@@ -61,6 +61,6 @@ print(third_largest)
 
 - **Interviewer**: Why did you use *pass* instead of *continue* ?
 - **Me**: pass 
-- **Interviewer**: What? My question is why you used *pass*?
+- **Interviewer**: What? My question is: why did you use *pass*?
 - **Me**: I said **pass**, which means move to the next question!  
 - **Interviewer**: 🤓
