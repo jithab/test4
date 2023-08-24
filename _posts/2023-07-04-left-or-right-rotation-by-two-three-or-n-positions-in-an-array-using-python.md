@@ -26,11 +26,11 @@ print("right: ", right)
 data = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 shifts = 4
 
-for i in range(shifts):
+for shift in range(shifts):
     swap = data[0]
-    for j in range(len(data)-1):
-        data[j] = data[j+1]
-    data[len(data)-1] = swap
+    for index in range(len(data)-1):
+        data[index] = data[index+1]
+    data[-1] = swap
 
 print(data)
 {% endhighlight %}
@@ -41,10 +41,10 @@ print(data)
 data = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 shifts = 5
 
-for i in range(shifts):
+for shift in range(shifts):
     swap = data[-1]
-    for j in range(len(data)-1, 0, -1):
-        data[j] = data[j-1]
+    for index in range(len(data)-1, 0, -1):
+        data[index] = data[index-1]
     data[0] = swap
 
 print(data)

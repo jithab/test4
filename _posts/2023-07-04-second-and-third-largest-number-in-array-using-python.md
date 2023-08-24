@@ -58,3 +58,9 @@ for num in numbers:
 
 print(third_largest)
 {% endhighlight %}
+
+- **Interviewer**: Why did you use *pass* instead of *continue* ?
+- **Me**: pass 
+- **Interviewer**: What? My question is why you used *pass*?
+- **Me**: I said **pass**, which means move to the next question!  
+- **Interviewer**: 🤓
