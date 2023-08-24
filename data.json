@@ -1,0 +1,236 @@
+[
+    {
+        "text": "Let me summarize what we are going to do in this video.",
+        "se" : "00:02.7 00:05.9",
+        "w": [
+        ]
+    },
+    {
+        "text": "There is a mouse in a maze.",
+        "se" : "00:06.8 00:08.5",
+        "w": [
+        ]
+    },
+    {
+        "text": "We have to help the mouse to get out of the maze with the less number of steps.",
+        "se" : "00:09.8 00:14.5",
+        "w": [
+        ]
+    },
+    {
+        "text": "The program will be developed in three stages.",
+        "se" : "00:16.3 00:18.3",
+        "w": [
+            {
+                "w": "developed in",
+                "p": "dɪˈveləptɪn",
+                "se" : "00:17.1 00:17.7"
+            }
+        ]
+    },
+    {
+        "text": "In the first stage the mouse will have no memory and no strategy.",
+        "se" : "00:19.4 00:24.5",
+        "w": [
+            {
+                "w": "the mouse",
+                "p": "ðəˈmaʊs",
+                "se" : "00:20.7 00:21.6"
+            }
+        ]
+    },
+    {
+        "text": "In the second stage the mouse will have memory and a basic strategy.",
+        "se" : "00:25.1 00:30.2",
+        "w": [
+        ]
+    },
+    {
+        "text": "In the final stage the mouse will have memory and a strategy based on probability.",
+        "se" : "00:31.4 00:36.5",
+        "w": [
+            {
+                "w": "probability",
+                "p": "prɒbəˈbɪlɪti",
+                "se" : "00:35.7 00:36.5"
+            }
+        ]
+    },
+    {
+        "text": "The focus of this video is how the mouse is getting out of the maze with small amounts of memory and a simple strategy.",
+        "se" : "00:38.7 00:46.3",
+        "w": [
+            {
+                "w": "The focus",
+                "p": "ðəˈfəʊkəs",
+                "se" : "00:20.7 00:21.6"
+            }
+        ]
+    },
+    {
+        "text": "To compare those stages, we need some measurement.",
+        "se" : "00:47.3 00:50.8",
+        "w": [
+            {
+                "w": "measurement",
+                "p": "mɛʒəm(ə)nt",
+                "se" : "00:49.7 00:50.4"
+            }
+        ]
+    },
+    {
+        "text": "I am going for a simple measurement - the number of steps the mouse took to reach to the exit point.",
+        "se" : "00:51.3 00:59.0",
+        "w": [
+        ]
+    },
+    {
+        "text": "That may not be the corresponding time and space complexity of the program, but for the sake of simplicity let us ignore it.",
+        "se" : "00:59.5 01:06.6",
+        "w": [
+            {
+                "w": "complexity",
+                "p": "kəmˈplɛksəti",
+                "se" : "01:01.9 01:02.5"
+            }
+        ]
+    },
+    {
+        "text": "The main structure will be given in a file.",
+        "se" : "01:14.9 01:17.7",
+        "w": [
+        ]
+    },
+    {
+        "text": "Here, hash represents the wall of the maze.",
+        "se" : "01:19.8 01:22.9",
+        "w": [
+        ]
+    },
+    {
+        "text": "M stands for the starting position of the mouse.",
+        "se" : "01:23.6 01:27.7",
+        "w": [
+            {
+                "w": "position",
+                "p": "pəˈzɪʃ(ə)n",
+                "se" : "01:25.5 01:25.8"
+            }
+        ]
+    },
+    {
+        "text": "This maze structure will be stored in a two dimensional array.",
+        "se" : "01:30.2 01:35.0",
+        "w": [
+        ]
+    },
+    {
+        "text": "In the first stage mouse will choose direction randomly since it have no memory and no strategy.",
+        "se" : "01:37.4 01:47.8",
+        "w": [
+        ]
+    },
+
+    {
+        "text": "It is roaming around the current location for a long time rather than quickly moving from one corner of the maze to the other corner.",
+        "se" : "06:10.6 06:20.9",
+        "w": [
+        ]
+    },
+    {
+        "text": "Another observation we can make it is unnecessarily going backward.",
+        "se" : "06:23.6 06:28.6",
+        "w": [
+            {
+                "w": "Another observation",
+                "p": "əˈnʌðərˌɒbzəˈveɪʃn",
+                "se" : "06:23.6 06:24.5"
+            },
+            {
+                "w": "backward",
+                "p": "ˈbækwəd",
+                "se" : "06:27.5 06:28.3"
+            }
+        ]
+    },
+    {
+        "text": "Mouse should not go backward unless it is in dead end.",
+        "se" : "06:28.8 06:37.8",
+        "w": [
+        ]
+    },
+    {
+        "text": "Let us develop stage-2 program where mouse won't go backward unless it is in dead end.",
+        "se" : "07:01.5 07:14.9",
+        "w": [
+        ]
+    },
+    {
+        "text": "Let us look into stage-2 program where mouse have a memory and a strategy.",
+        "se" : "07:16.4 07:22.0",
+        "w": [
+        ]
+    },
+
+    {
+        "text": "You can see it moved from one corner to other corner quickly.",
+        "se" : "08:42.5 08:48.5",
+        "w": [
+        ]
+    },
+    {
+        "text": "It is hard to predict when it will reach to the exit point because it is moving from one corner to other corner quickly.",
+        "se" : "08:57.5 09:05.8",
+        "w": [
+        ]
+    },
+
+    {
+        "text": "And what is the lessons we learned from the mouse movements? Earlier we learned we should discourage going backward.",
+        "se" : "09:35.2 09:45.4",
+        "w": [
+        ]
+    },
+    {
+        "text": "Here, one lesson we can learn we should encourage taking sideway directions.",
+        "se" : "09:45.6 09:51.7",
+        "w": [
+        ]
+    },
+    {
+        "text": "For example, if mouse is moving from left side to right side, up and down direction are the side directions. If it is moving from up direction to down direction, left and right are the side directions.",
+        "se" : "09:51.6 10:08.6",
+        "w": [
+        ]
+    },
+    {
+        "text": "Let us develop stage-3 program where mouse will be discouraged to choose backward direction and encourage to choose sideway directions.",
+        "se" : "10:09.0 10:21.9",
+        "w": [
+        ]
+    },
+
+    {
+        "text": "Here, mouse is not too quickly moving or too slowly moving.",
+        "se" : "12:12.9 12:17.6",
+        "w": [
+        ]
+    },
+    {
+        "text": "Stage-1 mouse was roaming around the current location for a long time. In stage-2, mouse was moving from one corner to other corner quickly, but here it is in between - it is not too slow or too fast.",
+        "se" : "12:17.8 12:33.8",
+        "w": [
+        ]
+    },
+    {
+        "text": "Yeah, it reached to the exit point.",
+        "se" : "12:37.6 12:41.5",
+        "w": [
+            {
+                "w": "backward",
+                "p": "ˈbækwəd",
+                "se" : "06:27.5 06:28.3"
+            }
+        ]
+    }
+]
