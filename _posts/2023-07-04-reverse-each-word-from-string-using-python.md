@@ -26,11 +26,10 @@ print(reversed_text)
 text = "Here goes what you want in life"
 
 words = text.split()
-reversed_words = [word[::-1] for word in words]
 
-reversed_text = reversed_words[0]
-for word in reversed_words[1:]:
-    reversed_text += " " + word
+reversed_text = words[0][::-1]
+for word in words[1:]:
+    reversed_text += " " + word[::-1]
 
 print(reversed_text)
 {% endhighlight %}
