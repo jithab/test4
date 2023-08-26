@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Ruth Barnes ♥</title>
+    <itunes:author>Readerabi</itunes:author>
+    <description>Good voice acting takes a lot of hard work, patience, and tenacity, but can also be a fun and rewarding. Vocal qualities include volume, pace, pitch, rate, rhythm, fluency, articulation, pronunciation, enunciation, tone, to name a few.</description>
+    <itunes:image href="https://perwad.in/x/rb/ruth.jpg"/>
+    <language>en-uk</language>
+    
+<item>
+  <title>😍 How technology gets us hooked</title>
+  <pubDate>Thu, 11 May 2017 00:00:00 -0000</pubDate>
+  <enclosure url="https://perwad.in/x/rb/201705__How-technology-gets-us-hooked.mp3" type="audio/mpeg" length="34216300"/>
+  <itunes:duration>27:14</itunes:duration>
+</item>
+
+<item>
+  <title>😍 The last nazi hunters</title>
+  <pubDate>Tue, 12 Sep 2017 00:00:00 -0000</pubDate>
+  <enclosure url="https://perwad.in/x/rb/201709__The-last-nazi-hunters.mp3" type="audio/mpeg" length="34216300"/>
+  <itunes:duration>33:36</itunes:duration>
+</item>
+
+<item>
+  <title>😍 Talk is cheap - the myth of focus group</title>
+  <pubDate>Tue, 13 Mar 2018 00:00:00 -0000</pubDate>
+  <enclosure url="https://perwad.in/x/rb/201803__Talk is cheap - the myth of focus group.mp3" type="audio/mpeg" length="34216300"/>
+  <itunes:duration>26:43</itunes:duration>
+</item>
+
+<item>
+  <title>😍 How babies learn why robots cannot compete</title>
+  <pubDate>Mon, 14 May 2018 00:00:00 -0000</pubDate>
+  <enclosure url="https://perwad.in/x/rb/201805__How-babies-learn-why-robots-cannot-compete.mp3" type="audio/mpeg" length="34216300"/>
+  <itunes:duration>27:27</itunes:duration>
+</item>
+
+<item>
+  <title>😍 Marx predicted present crisis</title>
+  <pubDate>Tue, 15 May 2018 00:00:00 -0000</pubDate>
+  <enclosure url="https://perwad.in/x/rb/201805__Marx-predicted-present-crisis.mp3" type="audio/mpeg" length="34216300"/>
+  <itunes:duration>27:55</itunes:duration>
+</item>
+
+<item>
+  <title>😍 The death of consensus - how conflict came back to politics</title>
+  <pubDate>Tue, 16 Oct 2018 00:00:00 -0000</pubDate>
+  <enclosure url="https://perwad.in/x/rb/201810__The death of consensus - how conflict came back to politics.mp3" type="audio/mpeg" length="34216300"/>
+  <itunes:duration>37:44</itunes:duration>
+</item>
+</channel></rss>
