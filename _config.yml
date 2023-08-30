@@ -47,3 +47,4 @@ plugins:
 #   - vendor/ruby/
 
 permalink: /:title
+include: ["_pages"]

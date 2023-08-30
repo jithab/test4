@@ -2,7 +2,7 @@
 layout: post
 title: "Reverse each word from a string using Python"
 date: 2023-08-21 13:38:21 +0530
-categories: interview python
+categories: interview python coding
 ---
 - **Input**: "Here goes what you want in life"
 - **Output**: "ereH seog tahw uoy tnaw ni efil"

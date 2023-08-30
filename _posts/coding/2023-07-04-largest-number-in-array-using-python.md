@@ -2,7 +2,7 @@
 layout: post
 title: "Largest Number in an array using Python"
 date: 2023-08-21 11:38:21 +0530
-categories: interview python
+categories: interview python coding
 ---
 
 - **Input**: [2, 14, 5, 53, 26, 33, 12, 8, 9]
