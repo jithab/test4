@@ -41,12 +41,12 @@ text = "Here goes what you want in life"
 
 reversed_text = ""
 next_word = ""
-for index in range(len(text)):
-    if text[index] == " ":
+for letter in text:
+    if letter == " ":
         reversed_text += next_word + " "
         next_word = ""
     else:
-        next_word = text[index] + next_word
+        next_word = letter + next_word
 reversed_text += next_word
 
 print(reversed_text)

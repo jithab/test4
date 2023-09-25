@@ -61,13 +61,13 @@ text = "Here goes what you want in life"
 
 reversed_text = ""
 next_word = ""
-for index in range(len(text)-1, -1, -1):
-    if text[index] == " ":
-        reversed_text += next_word + " "
+for letter in text:
+    if letter == " ":
+        reversed_text = " " + next_word + reversed_text
         next_word = ""
     else:
-        next_word = text[index] + next_word
-reversed_text += next_word
+        next_word += letter
+reversed_text = next_word + reversed_text
 
 print(reversed_text)
 {% endhighlight %}
