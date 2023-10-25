@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Those who are"
+title: "those who are"
 date: 2023-10-25 12:34:56 +0530
 categories: the-english
 ---
