@@ -6,7 +6,7 @@ permalink: /the-english/
 <ul>
 {% for post in site.categories.the-english %}
   <li>
-    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+    <a href="{{ post.url }}">{{ post.title }}</a>
     <!--{{ post.date | date: "%B %d, %Y" }}-->
   </li>
 {% endfor %}

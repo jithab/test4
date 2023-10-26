@@ -5,10 +5,12 @@ date: 2023-10-25 12:34:56 +0530
 categories: the-english
 ---
 <style>
+@media only screen and (min-width: 768px) {
     ol {
-        width: 800px;
+        width: 768px;
         margin: 0 auto;
     }
+  }
 ol li {
     font-size: 18px;
     line-height: 1.5;
@@ -20,35 +22,35 @@ ol li {
     <li> I must move quickly <b>, for </b>we have lost calves with fluid on their lungs before.
     <a 
     target="_blank" 
-    href="http://www.theguardian.com/news/2018/mar/22/cows-carry-flesh-but-they-carry-personality-too-the-hard-lessons-of-farming#:~:text=XYZ"> 🠢 </a>
+    href="http://www.theguardian.com/news/2018/mar/22/cows-carry-flesh-but-they-carry-personality-too-the-hard-lessons-of-farming#:~:text=XYZ"> &rarr; </a>
     </li>
     <li> This makes them much more unstable than empires<b>, for </b>that tendency can always be stoked by nativist demagogues.
     <a 
     target="_blank" 
-    href="http://www.theguardian.com/news/2018/apr/05/demise-of-the-nation-state-rana-dasgupta#:~:text=XYZ"> 🠢 </a>
+    href="http://www.theguardian.com/news/2018/apr/05/demise-of-the-nation-state-rana-dasgupta#:~:text=XYZ"> &rarr; </a>
     </li>
     <li> But I did, in 1998, only to start looking<b>, for </b>I had nothing else to do with my life but find the bodies and the people who did this.
     <a 
     target="_blank" 
-    href="http://www.theguardian.com/world/2016/dec/06/bringing-up-the-bodies-bosnia#:~:text=XYZ"> 🠢 </a>
+    href="http://www.theguardian.com/world/2016/dec/06/bringing-up-the-bodies-bosnia#:~:text=XYZ"> &rarr; </a>
     </li>
     <li> Indeed, the opposite seems to be true: the higher the asking price, the greater the appeal<b>, for </b>cheapness may suggest a reduction in quality.
     <a 
     target="_blank" 
-    href="http://www.theguardian.com/lifeandstyle/2016/oct/19/luxury-watch-industry-survive-digital-age#:~:text=XYZ"> 🠢 </a>
+    href="http://www.theguardian.com/lifeandstyle/2016/oct/19/luxury-watch-industry-survive-digital-age#:~:text=XYZ"> &rarr; </a>
     </li>
     <li> So he took her to her parents, being as polite as he possibly could<b>, for </b>it had suddenly occurred to him that he might be reported to the police.
     <a 
     target="_blank" 
-    href="http://www.theguardian.com/news/2018/jul/17/the-ugly-scandal-that-cancelled-the-nobel-prize-in-literature#:~:text=XYZ"> 🠢 </a>
+    href="http://www.theguardian.com/news/2018/jul/17/the-ugly-scandal-that-cancelled-the-nobel-prize-in-literature#:~:text=XYZ"> &rarr; </a>
     </li>
     <li> We choose to challenge the trauma, and although we know it won’t be easy, we know the alternative is impossible<b>, for </b>we have already lived through the suffocating reality of silence.
     <a 
     target="_blank" 
-    href="http://www.theguardian.com/world/2019/apr/12/black-lives-matter-deray-mckesson-ferguson-protests#:~:text=XYZ"> 🠢 </a>
+    href="http://www.theguardian.com/world/2019/apr/12/black-lives-matter-deray-mckesson-ferguson-protests#:~:text=XYZ"> &rarr; </a>
     </li>
     <li> This was also a factor behind the disproportionate prevalence in Ashkenazi Jews of genetic diseases such as Tay-Sachs and Gaucher’s, which the researchers claimed were a byproduct of natural selection for higher intelligence; those carrying the gene variants, or alleles<b>, for </b>these diseases were said to be smarter than the rest.
     <a 
     target="_blank" 
-    href="http://www.theguardian.com/news/2018/mar/02/the-unwelcome-revival-of-race-science#:~:text=XYZ"> 🠢 </a>
+    href="http://www.theguardian.com/news/2018/mar/02/the-unwelcome-revival-of-race-science#:~:text=XYZ"> &rarr; </a>
     </li>
