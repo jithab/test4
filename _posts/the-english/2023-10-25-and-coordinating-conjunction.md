@@ -1,0 +1,169 @@
+---
+layout: post
+title: "and coordinating conjunction"
+date: 2023-10-25 12:34:56 +0530
+categories: the-english
+---
+<style>
+    ol {
+        width: 800px;
+        margin: 0 auto;
+    }
+ol li {
+    font-size: 18px;
+    line-height: 1.5;
+    padding-bottom: 8px;
+}
+</style>
+<ol>
+
+    <li> We must remake the world<b>, and </b>we can remake it better.
+    <a 
+    target="_blank" 
+    href="https://www.theguardian.com/environment/2021/nov/18/ten-ways-confront-climate-crisis-without-losing-hope-rebecca-solnit-reconstruction-after-covid#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> It will be all about her<b>, and </b>it will really be about us.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/uk-news/2017/mar/16/what-happens-when-queen-elizabeth-dies-london-bridge#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> It happens all the time<b>, and </b>you can find it quite easily.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/news/2019/may/23/what-happened-when-i-met-my-islamophobic-troll#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> He goes to bed at night<b>, and </b>he’s eating coal dust still.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/news/2015/may/27/why-india-is-captured-by-carbon#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> He says it is not great<b>, and </b>he is not sure he even has it.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/news/2019/nov/07/the-dice-man-elusive-author-luke-rhinehart-george-cockroft-emmanuel-carrere#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> You say you are doing well<b>, and </b>we agree to meet again soon.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/society/2016/mar/10/my-uncle-and-heroin#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> He was a delivery driver<b>, and </b>she a qualified lab technician.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/world/2016/apr/20/calais-and-the-shantytown-on-its-doorstep#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> He was getting very fired up<b>, and </b>I just had to hold my ground.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/news/2016/aug/01/the-doctor-who-beat-big-tobacco#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> I’d give them antibiotics<b>, and </b>they’d show up the next day.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/society/2016/apr/26/homeless-shelter-ottawa-gives-wine-to-alcoholics#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> It was an apocalyptic sound<b>, and </b>I was unnerved and exhilarated.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/news/2020/mar/17/real-estate-for-the-apocalypse-my-journey-into-a-survival-bunker#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> He had heard the stories<b>, and </b>there he was in the middle of one.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/world/2017/mar/01/life-and-death-on-the-mexican-border#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> I’ve seen it happen a few times now<b>, and </b>I never got used to it.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/news/2017/jun/20/buried-alive-the-old-men-stuck-in-britains-prisons#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> I’d heard it too many times<b>, and </b>I had grown stunted and cramped.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/world/2015/jun/02/my-977-days-held-hostage-by-somali-pirates#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> He often called me for support<b>, and </b>I worried that he would unravel.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/news/2017/oct/19/one-drug-dealer-two-corrupt-cops-and-a-risky-fbi-sting#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> I knew the terror of lost time<b>, and </b>I wanted to protect him from it.
+    <a 
+    target="_blank" 
+    href="https://www.theguardian.com/news/2023/jun/06/terror-of-lost-time-how-my-fathers-dementia-echoed-my-own-alcoholism#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> You sit there and get into something<b>, and </b>it turns into three pages.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/us-news/2015/jun/23/procedural-justice-transform-us-criminal-courts#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> She’d complained of a sore leg<b>, and </b>she kept getting out of breath.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/society/2020/jul/21/dnp-deadly-diet-pills-online-trade#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> I ask him what he would say it means<b>, and </b>he pauses for a long moment.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/society/2017/apr/11/confessions-gentrification-race-rogers-park-chicago#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> I knew the facts of what had happened<b>, and </b>I knew they were appalling.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/world/2017/aug/24/the-school-beneath-the-wave-the-unimaginable-tragedy-of-japans-tsunami#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> She always pointed that out<b>, and </b>they picked me because they wanted me.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/science/2015/mar/19/do-your-genes-determine-your-entire-life#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> It matters a lot to anyone involved<b>, and </b>it matters to the wider world.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/science/2019/apr/18/how-to-identify-a-body-the-marchioness-disaster-and-my-life-in-forensic-pathology#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> It is still early in the year<b>, and </b>we are still early in our reporting.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/uk-news/2017/mar/28/beyond-the-blade-the-truth-about-knife-in-britain#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> It is certainly the past we desire<b>, and </b>it is probably the past we deserve.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/news/2016/may/04/tudormania-why-can-we-not-get-over-it#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> They are not indestructible<b>, and </b>there are not as many of them as we think.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/science/2016/sep/20/man-v-rat-war-could-the-long-war-soon-be-over#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> You get into a rhythm of that<b>, and </b>you begin to feel almost like an android.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/business/2018/nov/20/high-score-low-pay-gamification-lyft-uber-drivers-ride-hailing-gig-economy#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> It matters that workers are rising up<b>, and </b>it matters that women are leading.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/news/2019/feb/22/trump-country-republican-appalachia-virginia-activism#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> There were ambulance and also fire brigade<b>, and </b>they were absolutely amazing.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/uk-news/2019/oct/17/ladbroke-grove-paddington-train-crash-inquiry#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> It’s a profession that has been good to me<b>, and </b>I hope good for my patients.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/society/2020/apr/23/therapy-during-coronavirus-pandemic-lockdown-psychoanalysis-freud#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> We are the ones who are paying the cost<b>, and </b>she cannot pay it for much longer.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/news/2020/jan/23/zaghari-ratcliffes-ordeal-a-story-of-british-arrogance-secret-arms-deals-and-whitehall-infighting#:~:text=XYZ"> 🠢 </a>
+    </li>
+    <li> He received oxygen and food via tubes<b>, and </b>he was constantly drenched in sweat.
+    <a 
+    target="_blank" 
+    href="http://www.theguardian.com/news/2020/nov/26/life-on-the-inside-as-a-locked-in-patient-jake-haendel-leukoencephalopathy#:~:text=XYZ"> 🠢 </a>
+    </li>
