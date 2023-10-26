@@ -46,6 +46,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+future: true 
 permalink: /:title
 include: ["_pages"]
