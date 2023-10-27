@@ -2,7 +2,48 @@
 layout: page
 title: Usage and Example
 permalink: /usage-and-example/
+categories: [
+	["Coordinating Conjunction", [
+		["for", "For"],
+		["and", "And"],
+		["nor", "Nor"],
+		["but", "But"],
+		["or", "Or"],				
+		["yet", "Yet"],	
+		["so", "So"]		
+	]],
+		["Frequency Adverbs", [
+		["barely", "Barely"],
+		["hardly", "Hardly"],
+		["seldom", "Seldom"],
+		["scarcely", "Scarcely"],
+		["rarely", "Rarely"],				
+		["ever", "Ever"]	
+	]],
+	["Punctuations", [
+		["colon", "Colon"],
+		["semicolon","Semicolon"],
+		["square-bracket", "Square Bracket"]
+	]],
+	["Symbols", [
+		["dollar", "Dollar"],
+		["euro", "Euro"],
+		["pound", "pound"]
+	]]]
 ---
+
+<div>
+{% for category in page.categories %}
+  <h4>{{ category[0] }}</h4>
+  <ul>
+    {% for page in category[1] %}
+      <li><a href="/{{ page[0] }}">{{ page[1] }}</a></li>
+    {% endfor %}
+  </ul>	  
+{% endfor %}
+</div>
+
+<h4>All</h4>
 <ul>
 {% for post in site.categories.the-english %}
   <li>
@@ -11,3 +52,7 @@ permalink: /usage-and-example/
   </li>
 {% endfor %}
 </ul>
+<style type="text/css"> 
+  li { display:inline; margin-right: 1em; }
+  li:before { content:"• "; }       
+</style>
