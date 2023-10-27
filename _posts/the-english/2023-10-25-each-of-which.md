@@ -89,7 +89,7 @@ ol li {
     target="_blank" 
     href="http://www.theguardian.com/world/2016/nov/09/western-civilisation-appiah-reith-lecture#:~:text=XYZ"> &rarr; </a>
     </li>
-    <li> A strong majority, but one that still left six dissenting judgments, <b>each of which</b> could have cost a team three points; each of which would have upset tens of thousands of fans.
+    <li> A strong majority, but one that still left six dissenting judgments, <b>each of which</b> could have cost a team three points; <b>each of which</b> would have upset tens of thousands of fans.
     <a 
     target="_blank" 
     href="https://www.theguardian.com/football/2023/mar/21/inside-world-premier-league-football-referees-pgmol-howard-webb-andre-marriner-darren-england#:~:text=XYZ"> &rarr; </a>

@@ -49,7 +49,7 @@ ol li {
     target="_blank" 
     href="http://www.theguardian.com/society/2017/feb/02/vaccines-battle-germ-warfare-antiviral-leonard-hayflick-wistar-hilary-koprowski#:~:text=XYZ"> &rarr; </a>
     </li>
-    <li> There is<b> too much to </b>hold, too much to bear and sometimes it’s easier to retreat into a new setting rather than try to heal together.
+    <li> There is<b> too much to </b>hold,<b> too much to </b>bear and sometimes it’s easier to retreat into a new setting rather than try to heal together.
     <a 
     target="_blank" 
     href="http://www.theguardian.com/world/2021/jul/20/new-lives-refugee-britain-afghanistan-asylum-uk-taliban#:~:text=XYZ"> &rarr; </a>

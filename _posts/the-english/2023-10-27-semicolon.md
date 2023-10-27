@@ -29,7 +29,7 @@ ol li {
     target="_blank" 
     href="http://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house#:~:text=XYZ"> &rarr; </a>
     </li>
-    <li> Societies evolve<b>;</b> norms change; attitudes progress.
+    <li> Societies evolve<b>;</b> norms change<b>;</b> attitudes progress.
     <a 
     target="_blank" 
     href="http://www.theguardian.com/artanddesign/2021/jun/01/gary-younge-why-every-single-statue-should-come-down-rhodes-colston#:~:text=XYZ"> &rarr; </a>

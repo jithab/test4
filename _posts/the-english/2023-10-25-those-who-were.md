@@ -44,7 +44,7 @@ ol li {
     target="_blank" 
     href="https://www.theguardian.com/environment/2021/nov/18/ten-ways-confront-climate-crisis-without-losing-hope-rebecca-solnit-reconstruction-after-covid#:~:text=XYZ"> &rarr; </a>
     </li>
-    <li> There was a very distinct hierarchy, a division between <b>those who were</b> legal and those who weren’t.
+    <li> There was a very distinct hierarchy, a division between <b>those who were</b> legal and <b>those who were</b>n’t.
     <a 
     target="_blank" 
     href="http://www.theguardian.com/world/2019/nov/26/what-you-hear-about-chinese-people-in-france-feeling-scared-its-true#:~:text=XYZ"> &rarr; </a>
@@ -164,7 +164,7 @@ ol li {
     target="_blank" 
     href="https://www.theguardian.com/world/2021/nov/23/a-tale-of-two-pandemics-the-true-cost-of-covid-in-the-global-south#:~:text=XYZ"> &rarr; </a>
     </li>
-    <li> And another 10% of <b>those who were</b> taken aboard died at sea during an Atlantic transit that constituted an extreme physical and psychological test for all those who were subjected to it.
+    <li> And another 10% of <b>those who were</b> taken aboard died at sea during an Atlantic transit that constituted an extreme physical and psychological test for all <b>those who were</b> subjected to it.
     <a 
     target="_blank" 
     href="https://www.theguardian.com/news/2021/oct/12/africa-slaves-erased-from-history-modern-world#:~:text=XYZ"> &rarr; </a>

@@ -139,7 +139,7 @@ ol li {
     target="_blank" 
     href="http://www.theguardian.com/world/2016/aug/03/kavumu-village-39-young-girls-raped-justice-drc#:~:text=XYZ"> &rarr; </a>
     </li>
-    <li> They remain alive in the memory of all <b>those who have </b>experienced war and suffered its destruction, those who have lost their loved ones.
+    <li> They remain alive in the memory of all <b>those who have </b>experienced war and suffered its destruction, <b>those who have </b>lost their loved ones.
     <a 
     target="_blank" 
     href="https://www.theguardian.com/news/2022/aug/25/yemen-war-victims-stories-they-robbed-me-of-my-children#:~:text=XYZ"> &rarr; </a>
@@ -164,7 +164,7 @@ ol li {
     target="_blank" 
     href="https://www.theguardian.com/news/2022/aug/25/yemen-war-victims-stories-they-robbed-me-of-my-children#:~:text=XYZ"> &rarr; </a>
     </li>
-    <li> This leads <b>those who have </b>been fortunate to believe they have earned it on their own, and those who have been less fortunate to blame themselves.
+    <li> This leads <b>those who have </b>been fortunate to believe they have earned it on their own, and <b>those who have </b>been less fortunate to blame themselves.
     <a 
     target="_blank" 
     href="http://www.theguardian.com/society/2019/feb/07/the-class-pay-gap-why-it-pays-to-be-privileged#:~:text=XYZ"> &rarr; </a>

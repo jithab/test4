@@ -44,7 +44,7 @@ ol li {
     target="_blank" 
     href="https://www.theguardian.com/news/2022/jan/13/peace-middle-east-friend-summer-camp-israel#:~:text=XYZ"> &rarr; </a>
     </li>
-    <li> <b>The way in which</b> people act in the game might not reflect the way in which they act in the real world.
+    <li> <b>The way in which</b> people act in the game might not reflect <b>the way in which</b> they act in the real world.
     <a 
     target="_blank" 
     href="http://www.theguardian.com/technology/2015/may/12/how-virtual-world-edge-of-apocalypse-and-back-again#:~:text=XYZ"> &rarr; </a>

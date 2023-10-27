@@ -89,7 +89,7 @@ ol li {
     target="_blank" 
     href="https://www.theguardian.com/football/2023/apr/25/inside-the-crisis-at-juventus-andrea-agnelli-fabio-paratici-plusvalenze#:~:text=XYZ"> &rarr; </a>
     </li>
-    <li> Even so, <b>those who had</b> been vaccinated caught colds just as easily as those who had not.
+    <li> Even so, <b>those who had</b> been vaccinated caught colds just as easily as <b>those who had</b> not.
     <a 
     target="_blank" 
     href="http://www.theguardian.com/news/2017/oct/06/why-cant-we-cure-the-common-cold#:~:text=XYZ"> &rarr; </a>
