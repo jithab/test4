@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The English
-permalink: /the-english/
+title: Usage and Example
+permalink: /usage-and-example/
 ---
 <ul>
 {% for post in site.categories.the-english %}
