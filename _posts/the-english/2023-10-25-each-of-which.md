@@ -4,19 +4,6 @@ title: "each of which"
 date: 2023-10-25 12:34:56 +0530
 categories: the-english
 ---
-<style>
-@media only screen and (min-width: 768px) {
-    ol {
-        width: 768px;
-        margin: 0 auto;
-    }
-  }
-ol li {
-    font-size: 18px;
-    line-height: 1.5;
-    padding-bottom: 8px;
-}
-</style>
 <ol>
 
     <li> Dmytriievska sent numerous job application forms to CCP, <b>each of which</b> was rejected.

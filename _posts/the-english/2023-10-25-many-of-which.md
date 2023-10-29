@@ -4,19 +4,6 @@ title: "many of which"
 date: 2023-10-25 12:34:56 +0530
 categories: the-english
 ---
-<style>
-@media only screen and (min-width: 768px) {
-    ol {
-        width: 768px;
-        margin: 0 auto;
-    }
-  }
-ol li {
-    font-size: 18px;
-    line-height: 1.5;
-    padding-bottom: 8px;
-}
-</style>
 <ol>
 
     <li> Britain built 30-odd new towns, <b>many of which</b> are disastrous, but by some magic MK was got right.

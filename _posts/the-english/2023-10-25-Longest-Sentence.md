@@ -4,19 +4,6 @@ title: "Longest Sentence"
 date: 2023-10-25 12:34:56 +0530
 categories: the-english
 ---
-<style>
-@media only screen and (min-width: 768px) {
-    ol {
-        width: 768px;
-        margin: 0 auto;
-    }
-  }
-ol li {
-    font-size: 18px;
-    line-height: 1.5;
-    padding-bottom: 8px;
-}
-</style>
 <ol>
 
     <li> <b>In the early years of the 21st century, the inevitability of an ever more competitive, deregulated, internationally orientated market economy, to which both government and society were subordinate – a doctrine often called neoliberalism – was accepted right across the mainstream of British politics: from the Thatcherites who still dominated the Conservative party; to the increasingly pro-business Liberal Democrats, who would soon form a coalition government with the Tories; to the Scottish National party, whose then leader Alex Salmond praised Ireland and Iceland for their low corporate taxes; to the Blair cabinet itself, where, I was told by a senior Labour figure in 2001, “You won’t find a single member with anything critical to say about capitalism.”</b>

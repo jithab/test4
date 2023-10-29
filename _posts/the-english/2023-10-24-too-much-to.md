@@ -4,19 +4,6 @@ title: " too much to "
 date: 2023-10-24 12:34:56 +0530
 categories: the-english
 ---
-<style>
-@media only screen and (min-width: 768px) {
-    ol {
-        width: 768px;
-        margin: 0 auto;
-    }
-  }
-ol li {
-    font-size: 18px;
-    line-height: 1.5;
-    padding-bottom: 8px;
-}
-</style>
 <ol>
 
     <li> I value it<b> too much to </b>want that.

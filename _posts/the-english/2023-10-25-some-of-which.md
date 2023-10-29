@@ -4,19 +4,6 @@ title: "some of which"
 date: 2023-10-25 12:34:56 +0530
 categories: the-english
 ---
-<style>
-@media only screen and (min-width: 768px) {
-    ol {
-        width: 768px;
-        margin: 0 auto;
-    }
-  }
-ol li {
-    font-size: 18px;
-    line-height: 1.5;
-    padding-bottom: 8px;
-}
-</style>
 <ol>
 
     <li> Migration ministry bulletins list 39 camps, <b>some of which</b> are empty.

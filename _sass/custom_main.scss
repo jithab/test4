@@ -6,4 +6,14 @@
   li {
     color: #102030;
   }
-}
+  @media only screen and (min-width: 768px) {
+    ol {
+        width: 768px;
+        margin: 0 auto;
+    }
+   li {
+    font-size: 18px;
+    line-height: 1.5;
+    padding-bottom: 8px;
+	}
+}}
