@@ -1,13 +1,18 @@
 ---
 layout: page
-title: Auto Words
-permalink: /auto-words/
+title: Most Common Words
+permalink: /most-common-words/
 ---
 <ul>
-{% for post in site.categories.auto-words %}
+{% assign sorted_data = site.categories.auto-words | sort:'title' %}
+{% for post in sorted_data %}
   <li>
-    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-    <!--{{ post.date | date: "%B %d, %Y" }}-->
+    <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
 {% endfor %}
 </ul>
+
+<style type="text/css"> 
+  li { display:inline; margin-right: 1em; }
+  li:before { content:"• "; }       
+</style>

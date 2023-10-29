@@ -52,6 +52,10 @@ categories: [
   </li>
 {% endfor %}
 </ul>
+
+<p>&nbsp;</p>
+<p>See <a href="/most-common-words">Most Common Words</a></p>
+
 <style type="text/css"> 
   li { display:inline; margin-right: 1em; }
   li:before { content:"• "; }       
