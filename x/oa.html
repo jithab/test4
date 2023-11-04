@@ -1,52 +1,76 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>The Perwad Lab</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
-    <meta name="color-scheme" content="light">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta charset="utf-8">
-</head>
-<body>
-<style>
-audio::-webkit-media-controls-mute-button {
-    display: none !important;
-}
+  <head>
+    <title>The Perwad Lab</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
+    <meta name="color-scheme" content="light" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <style>
+      audio::-webkit-media-controls-mute-button {
+        display: none !important;
+      }
 
-audio::-webkit-media-controls-volume-slider {
-    display: none !important;
-}
+      audio::-webkit-media-controls-volume-slider {
+        display: none !important;
+      }
+    </style>
+    <article>
+      <h1>Reacting to my old accent!</h1>
+      <h4>Audio recorded in Sept 2020, three years ago.</h4>
+      <ol id="xyz"></ol>
+    </article>
+    <script src="/jquery-3.6.0.min.js"></script>
+    <script>
+      $.getJSON("mp3x/data.json", function (data) {
+        var html = "";
+        $.each(data, function (key, val) {
+          html += `<li><hr/><p>${val.text}</p>`;
+          html += `<audio controls preload="none">
+        <source src="Sep2020/mp3x/${key
+          .toString()
+          .padStart(2, "0")}_.m4a" type="audio/mpeg">
+   </audio></li>`;
 
-</style>
+          $.each(val["w"], function (k, v) {
+            return;
+            html += `<ol style="margin-left:50px">`;
+            html += `<li>${v.w} /${v.p}/</div>`;
+            html += `<audio controls preload="none">
+          <source src="Sep2020/mp3x/${key
+            .toString()
+            .padStart(2, "0")}_${k}.m4a" type="audio/mpeg">
+          </audio>`;
+            html += "</li>";
+          });
+          html += "</ol>";
+        });
 
-<div id="xyz"></div>
-<script src="jquery-3.6.0.min.js"></script>
-<script>
-$.getJSON( "data.json", function( data ) {
-  var html = "";
-  $.each( data, function( key, val ) {
-    html += `<hr/><div>${key}`;
-    html += `<div>${val.text}</div>`;
-    html +=  `<audio controls preload="none">
-        <source src="mp3x/${key.toString().padStart(2, '0')}_.m4a" type="audio/mpeg">
-        </audio>`; 
-  
-    $.each( val["w"], function( k, v) {
-      html += `<div style="margin-left:50px">`;
-      html += `<div>${v.w} /${v.p}/</div>`;
-      html +=  `<audio controls preload="none">
-          <source src="mp3x/${key.toString().padStart(2, '0')}_${k}.m4a" type="audio/mpeg">
-          </audio>`; 
-      html += "</div>";
-    });
-    html += "</div>";
-
-  });
-  
- 
-  $("#xyz").html(html);
-});
-
-</script>
-</body>
-</html> 
+        $("#xyz").html(html);
+      });
+    </script>
+    <style>
+      p {
+        font-size: 24px;
+        color: #00a;
+      }
+      article {
+        width: 800px;
+        margin: 0 auto;
+      }
+      h1 {
+        font-size: 32px;
+        text-align: center;
+      }
+      h4 {
+        font-weight: normal;
+        text-align: center;
+      }
+    </style>
+  </body>
+</html>
