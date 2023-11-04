@@ -32,7 +32,7 @@
         $.each(data, function (key, val) {
           html += `<li><hr/><p>${val.text}</p>`;
           html += `<audio controls preload="none">
-        <source src="Sep2020/mp3x/${key
+        <source src="mp3x/Sep2020/${key
           .toString()
           .padStart(2, "0")}_.m4a" type="audio/mpeg">
    </audio></li>`;
@@ -42,7 +42,7 @@
             html += `<ol style="margin-left:50px">`;
             html += `<li>${v.w} /${v.p}/</div>`;
             html += `<audio controls preload="none">
-          <source src="Sep2020/mp3x/${key
+          <source src="mp3x/Sep2020/${key
             .toString()
             .padStart(2, "0")}_${k}.m4a" type="audio/mpeg">
           </audio>`;
