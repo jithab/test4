@@ -52,12 +52,13 @@ categories: [
   </li>
 {% endfor %}
 </ul>
-
+{% comment %}
 <p>&nbsp;</p>
 <p>See <a href="/most-common-words">Most Common Words</a></p>
 
 <p>&nbsp;</p>
 <p>See <a href="/phrasal-verbs">Phrasal Verbs</a></p>
+{% endcomment %}
 <p>&nbsp;</p>
 <p>See <a href="/x-versus-y">Word1 versus Word2</a></p>
 <style type="text/css"> 
