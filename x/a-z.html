@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1 id="h1">A</h1>
+<table style="width: 100%"><td><button id="back">Back</button></td><td><button id="next">Next</button></td></table>
+
+<style>
+	h1 {
+		line-height: 1;
+		font-size: 52vw;
+		font-family: arial;
+		text-align: center;
+		margin: 0 auto;	
+		text-shadow: 0px 2px black;
+		color: green;
+}
+body {
+	padding: 0;
+	margin: 0;
+}
+td {
+	width: 50%;
+	text-align: center;
+}
+button {
+	font-size: 1vw;
+	padding: 0.5vw 1vw;
+	margin: 0 auto;
+	}
+
+</style>
+<script>
+var h1 = document.getElementById('h1');
+
+document.getElementById('back').onclick = function(e){
+    var text = h1.innerText || h1.textContent;
+    if(text=="1")
+	    h1.innerHTML="Z";
+    else if(text!="A")
+        h1.innerHTML = String.fromCharCode(text.charCodeAt(0)-1);
+};
+
+document.getElementById('next').onclick = function(e){
+    var text = h1.innerText || h1.textContent;
+    if(text=="Z")
+	    h1.innerHTML="1";
+    else if(text!="9")
+        h1.innerHTML = String.fromCharCode(text.charCodeAt(0)+1);
+};
+</script>
+</body>
+
+</html>
