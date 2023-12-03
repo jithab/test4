@@ -7,8 +7,10 @@
 
     
     <div class="footer-col-wrapper" style="text-align:center">
-      <p>The sentences are taken from <b>The Guardian</b>.
-        If possible, consider <a href="https://support.theguardian.com/int/contribute?INTCMP=perwad.in">supporting</a> the newspaper.</p>
+      {% if page.type != "coding" %}
+        <p>The sentences are taken from <b>The Guardian</b>.
+          If possible, consider <a href="https://support.theguardian.com/int/contribute?INTCMP=perwad.in">supporting</a> the newspaper.</p>
+      {% endif %}
       <!--
       <div class="footer-col footer-col-1">
         <ul class="contact-list">

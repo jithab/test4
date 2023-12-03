@@ -3,7 +3,16 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/usage-and-example/" | relative_url }}"><b>Usage</b> &#xFE60; <b>Example</b></a>
+    {%- assign main_url = "/usage-and-example/" -%}
+    {%- assign main_title = "<b>Usage</b> &#xFE60; <b>Example</b>" -%}
+    {% if page.type == "coding" -%}
+      {%- assign main_url = "/coding" -%}
+      {%- assign main_title = "<b>Code</b> &#xFE60; <b>Explain</b>" -%}
+    {%- endif -%}
+    
+    <a class="site-title" rel="author" href="{{ main_url | relative_url }}">
+      {{ main_title }}
+    </a>
 
     {%- if page_paths -%}
       <nav class="site-nav">

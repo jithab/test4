@@ -3,6 +3,7 @@ layout: post
 title: Functional and Class Components in ReactJS
 date:  2023-11-30 12:34:56 +0000
 categories: coding javascript reactjs
+type: coding
 ---
 {% highlight javascript %}
 import React, { useState } from "react";
