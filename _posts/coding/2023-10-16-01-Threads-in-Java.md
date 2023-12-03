@@ -3,7 +3,7 @@ layout: post
 title:  Threads in Java
 date:   2023-10-16 01:00:00 +0000
 categories: java coding
-
+type: coding
 ---
 {% highlight java %}
 public class Main {

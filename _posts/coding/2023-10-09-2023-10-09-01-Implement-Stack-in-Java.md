@@ -3,6 +3,7 @@ layout: post
 title:  Implement Stack in Java
 date:   2023-10-09 01:38:00 +0000
 categories: java coding
+type: coding
 ---
 
 {% highlight java %}

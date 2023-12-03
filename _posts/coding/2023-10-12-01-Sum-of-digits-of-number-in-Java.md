@@ -3,6 +3,7 @@ layout: post
 title:  Sum of digits of a number in Java
 date:   2023-10-12 01:38:00 +0000
 categories: java coding
+type: coding
 ---
 {% highlight java %}
 public class Main {

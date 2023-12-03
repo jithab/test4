@@ -3,6 +3,7 @@ layout: post
 title: "Reverse words from a string using Python"
 date: 2023-08-21 10:38:21 +0530
 categories: interview python coding
+type: coding
 ---
 
 - **Input**: "Here goes what you want in life"

@@ -3,6 +3,7 @@ layout: post
 title: "Left or Right rotation by two, three or N positions in an array using Python"
 date: 2023-08-22 12:38:21 +0530
 categories: interview python coding
+type: coding
 ---
 - **Input**: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 - **Output Left shift by 4**: [5, 6, 7, 8, 9, 1, 2, 3, 4]

@@ -3,6 +3,7 @@ layout: post
 title: "Second and third largest Numbers in an array using Python"
 date: 2023-08-21 12:38:21 +0530
 categories: interview python coding
+type: coding
 ---
 
 - **Input**: [2, 14, 5, 53, 26, 33, 53, 33, 12]

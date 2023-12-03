@@ -3,7 +3,7 @@ layout: post
 title:  Fibonacci Numbers in Java
 date:   2023-10-12 03:38:00 +0000
 categories: java coding
-
+type: coding
 ---
 {% highlight java %}
 public class Main {

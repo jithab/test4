@@ -3,6 +3,7 @@ layout: post
 title:  Implement Queue in Java
 date:   2023-10-09 02:38:00 +0000
 categories: java coding
+type: coding
 ---
 
 {% highlight java %}

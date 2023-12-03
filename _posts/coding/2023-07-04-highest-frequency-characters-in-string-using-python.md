@@ -3,6 +3,7 @@ layout: post
 title: "Highest frequency characters in a string using Python"
 date: 2023-08-22 11:38:21 +0530
 categories: interview python coding
+type: coding
 ---
 - **Input**: "the quick brown fox jumped over the lazy dog"
 - **Output**: ['e', 'o']

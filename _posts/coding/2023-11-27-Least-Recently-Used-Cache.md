@@ -3,6 +3,7 @@ layout: post
 title:  Least Recently Used Cache
 date:   2023-11-27 12:34:56 +0000
 categories: java coding
+type: coding
 ---
 {% highlight java %}
 class CacheNode {

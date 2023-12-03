@@ -3,6 +3,7 @@ layout: post
 title:  Count of the digits of a number in Java
 date:   2023-10-12 02:38:00 +0000
 categories: java coding
+type: coding
 ---
 {% highlight java %}
 public class Main {

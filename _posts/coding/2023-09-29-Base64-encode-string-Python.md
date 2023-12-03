@@ -3,6 +3,7 @@ layout: post
 title:  Base64 encode a string in Python
 date:   2023-09-29 01:38:00 +0000
 categories: python coding
+type: coding
 ---
 - **Input**: "Many hands make light work."
 - **Output**: "TWFueSBoYW5kcyBtYWtlIGxpZ2h0IHdvcmsu"
