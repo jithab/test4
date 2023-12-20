@@ -31,10 +31,11 @@ def min_window(s, t):
 
         # increase the left_pointer if possible
         while True:
-            if s[left_pointer] in tset:
-                if tset[s[left_pointer]] == 0:
+            schar = s[left_pointer]
+            if schar in tset:
+                if tset[schar] == 0:
                     break
-                tset[s[left_pointer]] += 1
+                tset[schar] += 1
             left_pointer += 1
 
         new_min_len = right_pointer - left_pointer + 1

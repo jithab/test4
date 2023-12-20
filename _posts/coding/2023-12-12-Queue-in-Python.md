@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Queue in Python
-date:   2023-12-22 01:23:45 +0000
+date:   2023-12-12 01:23:45 +0000
 categories: coding python
 type: coding
 ---
