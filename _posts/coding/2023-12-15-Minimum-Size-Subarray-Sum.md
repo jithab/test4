@@ -6,20 +6,21 @@ categories: coding python
 type: coding
 ---
 {% highlight python %}
+import math
+
 def subarray_length(target, nums):
-    left_pointer = right_pointer = 0
+    left_pointer = 0
     sum_of_nums = 0
-    n = len(nums)
-    min_len = n + 1
-    while right_pointer < n:
+    min_len = math.inf
+
+    for right_pointer in range(len(nums)):
         sum_of_nums += nums[right_pointer]
         while sum_of_nums >= target:
             min_len = min(min_len, right_pointer - left_pointer + 1)
             sum_of_nums -= nums[left_pointer]
             left_pointer += 1
-        right_pointer += 1
-
-    return min_len if min_len <= n else 0
+    
+    return 0 if min_len == math.inf else min_len
 {% endhighlight %}
 
 {% highlight python %}

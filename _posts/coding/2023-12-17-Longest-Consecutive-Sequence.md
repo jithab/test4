@@ -18,10 +18,8 @@ def longest(nums):
     for item in items:
         if (item - 1) not in items:
             length = 1
-            current = item
-            while (current + 1) in items:
+            while (current + length) in items:
                 length += 1
-                current += 1
             maxsize = max(maxsize, length)
 
     return maxsize
