@@ -6,6 +6,34 @@ categories: java coding
 type: coding
 ---
 {% highlight java %}
+import java.util.HashMap;
+import java.util.Map;
+
+class Main {
+    public static void main(String[] args) {
+
+        CacheLRU cache = new CacheLRU(3);
+
+        cache.put("key1", "value1");    // k1
+        cache.put("key2", "value2");    // k1 k2
+        cache.put("key3", "value3");    // k1 k2 k3
+        cache.put("key1", "value1New"); // k2 k3 k1
+        cache.get("key2");              // k3 k1 k2
+        cache.put("key4", "value4");    // k1 k2 k4
+
+        print("value1New".equals(cache.get("key1")));
+        print("value2".equals(cache.get("key2")));
+        print(null == cache.get("key3"));
+        print("value4".equals(cache.get("key4")));
+    }
+
+    private static void print(boolean success) {
+        System.out.println(success ? "Ok" : "Failed!");
+    }
+}
+{% endhighlight %}
+
+{% highlight java %}
 class CacheNode {
     String cacheKey, cacheValue;
     CacheNode prevNode, nextNode;
@@ -21,13 +49,7 @@ class DoubleLinkedList {
         CacheNode node = new CacheNode();
         node.cacheKey = key;
         node.cacheValue = value;
-        node.prevNode = head;
-
-        if (head != null)
-            head.nextNode = node;
-        head = node;
-        if (tail == null)
-            tail = head;
+        addToHead(node);
         return node;
     }
 
@@ -54,21 +76,26 @@ class DoubleLinkedList {
 
     public void moveToHead(CacheNode node) {
         detach(node);
+        addToHead(node);
+    }
+
+    public void addToHead(CacheNode node) {
+        if (head != null)
+            head.nextNode = node;
         node.prevNode = head;
         head = node;
+        if (tail == null)
+            tail = head;
     }
 }
 {% endhighlight %}
 
 {% highlight java %}
-import java.util.HashMap;
-import java.util.Map;
-
 class CacheLRU {
 
     Map<String, CacheNode> cacheMap;
     DoubleLinkedList cacheList;
-    private int cacheMaxSize;
+    int cacheMaxSize;
 
     public CacheLRU(int size) {
         cacheMaxSize = size;
@@ -109,31 +136,6 @@ class CacheLRU {
         cacheList.moveToHead(node);
 
         return node.cacheValue;
-    }
-}
-{% endhighlight %}
-
-{% highlight java %}
-class Main {
-    public static void main(String[] args) {
-
-        CacheLRU cache = new CacheLRU(3);
-
-        cache.put("key1", "value1");    // k1
-        cache.put("key2", "value2");    // k1 k2
-        cache.put("key3", "value3");    // k1 k2 k3
-        cache.put("key1", "value1New"); // k2 k3 k1
-        cache.get("key2");              // k3 k1 k2
-        cache.put("key4", "value4");    // k1 k2 k4
-
-        print("value1New".equals(cache.get("key1")));
-        print("value2".equals(cache.get("key2")));
-        print(null == cache.get("key3"));
-        print("value4".equals(cache.get("key4")));
-    }
-
-    private static void print(boolean success) {
-        System.out.println(success ? "Ok" : "Failed!");
     }
 }
 {% endhighlight %}
