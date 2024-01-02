@@ -34,6 +34,56 @@ class Main {
 {% endhighlight %}
 
 {% highlight java %}
+class CacheLRU {
+
+    Map<String, CacheNode> cacheMap;
+    DoubleLinkedList cacheList;
+    int cacheMaxSize;
+
+    public CacheLRU(int size) {
+        cacheMaxSize = size;
+        cacheMap = new HashMap<>(cacheMaxSize);
+        cacheList = new DoubleLinkedList();
+    }
+
+    public void put(String key, String value) {
+
+        if (cacheMap.containsKey(key)) {
+            // The key is already in the cache,
+            // update the value and move the item to head of the list
+            // to make it as most recently used item.
+            CacheNode node = cacheMap.get(key);
+            node.cacheValue = value;
+            cacheList.moveToHead(node);
+            return;
+        }
+
+        if (cacheMap.size() == cacheMaxSize) {
+            // Cache is full. Remove the least recently used item,
+            // which is in the tail of the list.
+            CacheNode node = cacheList.removeTailNode();
+            cacheMap.remove(node.cacheKey);
+        }
+
+        // Add item to cache
+        CacheNode node = cacheList.add(key, value);
+        cacheMap.put(key, node);
+    }
+
+    public String get(String key) {
+        CacheNode node = cacheMap.get(key);
+        if (node == null) return null;
+
+        // Move the accessed item to head of the list
+        // to make it as the most recently used item.
+        cacheList.moveToHead(node);
+
+        return node.cacheValue;
+    }
+}
+{% endhighlight %}
+
+{% highlight java %}
 class CacheNode {
     String cacheKey, cacheValue;
     CacheNode prevNode, nextNode;
@@ -86,56 +136,6 @@ class DoubleLinkedList {
         head = node;
         if (tail == null)
             tail = head;
-    }
-}
-{% endhighlight %}
-
-{% highlight java %}
-class CacheLRU {
-
-    Map<String, CacheNode> cacheMap;
-    DoubleLinkedList cacheList;
-    int cacheMaxSize;
-
-    public CacheLRU(int size) {
-        cacheMaxSize = size;
-        cacheMap = new HashMap<>(cacheMaxSize);
-        cacheList = new DoubleLinkedList();
-    }
-
-    public void put(String key, String value) {
-
-        if (cacheMap.containsKey(key)) {
-            // The key is already in the cache,
-            // update the value and move the item to head of the list
-            // to make it as most recently used item.
-            CacheNode node = cacheMap.get(key);
-            node.cacheValue = value;
-            cacheList.moveToHead(node);
-            return;
-        }
-
-        if (cacheMap.size() == cacheMaxSize) {
-            // Cache is full. Remove the least recently used item,
-            // which is in the tail of the list.
-            CacheNode node = cacheList.removeTailNode();
-            cacheMap.remove(node.cacheKey);
-        }
-
-        // Add item to cache
-        CacheNode node = cacheList.add(key, value);
-        cacheMap.put(key, node);
-    }
-
-    public String get(String key) {
-        CacheNode node = cacheMap.get(key);
-        if (node == null) return null;
-
-        // Move the accessed item to head of the list
-        // to make it as the most recently used item.
-        cacheList.moveToHead(node);
-
-        return node.cacheValue;
     }
 }
 {% endhighlight %}
