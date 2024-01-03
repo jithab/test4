@@ -10,6 +10,11 @@
       {%- assign main_title = "<b>Code</b> &#xFE60; <b>Explain</b>" -%}
     {%- endif -%}
     
+    {% if page.type == "abi" -%}
+    {%- assign main_url = "/abi" -%}
+    {%- assign main_title = "Abi Perwad<b> The Writer</b>" -%}
+  {%- endif -%}
+
     <a class="site-title" rel="author" href="{{ main_url | relative_url }}">
       {{ main_title }}
     </a>

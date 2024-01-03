@@ -8,12 +8,24 @@
   }
   @media only screen and (min-width: 768px) {
     ol {
-        width: 768px;
-        margin: 0 auto;
+      width: 768px;
+      margin: 0 auto;
     }
-   li {
-    font-size: 18px;
-    line-height: 1.5;
-    padding-bottom: 8px;
-	}
-}}
+    li {
+      font-size: 18px;
+      line-height: 1.5;
+      padding-bottom: 8px;
+    }
+  }
+}
+
+.abi {
+  white-space: pre-wrap;
+  font-size: medium;
+  font-family: math;
+  font-size: 20px;
+}
+
+.abi-title {
+  font-family: serif;
+}
