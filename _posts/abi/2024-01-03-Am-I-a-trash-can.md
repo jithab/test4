@@ -30,5 +30,4 @@ These were not just my thoughts, but I was thinking out loud and Ashish was list
 An alarm went off in my mind. Have I said something stupid? I quickly realised If I continued my reasoning, I would be led to conclude that I used him as a trash can to dispose of my electronic waste. Oh, God, that is so offensive! I couldn't come up with the right word, and I became desperate to get out of the trouble.
 
 “Yeah, yes, You can call it ... It’s my gift for you!”
-
 </div>
