@@ -19,7 +19,7 @@ The warning we got while performing the task on the Windows machine came into my
 
 I understood why the task took more time on Windows: The files were being converted into Windows format, which was a slow disk operation. The demo was flawed since the environment for the demo was in favour of Linux.
 
-I got up from my seat to inform the colleague about the flaw. Suddenly, a question came to my mind: why should I let him know the flaw? I believed Linux was better than Windows. Rather than telling it to my colleague, I tried to show him. I used the demo as an instrument to instil my belief in him. Even though the instrument was flawed, I achieved my intention. The end justifies the means, doesn't it? 
+I got up from my seat to inform the colleague about the flaw. Suddenly, a question came to my mind: why should I let him know the flaw? I believed Linux was better than Windows. Rather than just telling it to my colleague, I tried to show him. The demo was a tool to ingrain my belief in him. Even though the tool was flawed, it met the objective. The end justifies the means, doesn't it? 
 
-I sat down in my seat. I wanted to show another demo to prove my point, but I couldn’t find a better task at the moment. I decided to inform him about the flaw once I was able to show a proper demo in the future.
+I couldn’t find a better demo to prove my point at the moment. I decided to inform him about the flaw once I was able to show a proper demo in the future.
 </div>
