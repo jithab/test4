@@ -9,7 +9,7 @@ type: abi
 <div class="abi">	
 I was walking to a restaurant to have breakfast along a busy road in the early morning.
 
-A person was pushing his cart in the middle of the road. Vehicles were rushing on both sides of him. A tarpaulin sheet, covering the cart, was stuck in one of the wheels of the cart, so the cart was barely moving. He was trying to untangle the sheet by pulling the sheet and pushing the cart at the same time. 
+A person was pushing his cart in the middle of the road. Vehicles were rushing on both sides of him. A tarpaulin sheet, covering the cart, was stuck in one of the wheels of the cart, so the cart was barely moving. He was trying to untangle the sheet by pulling the sheet and pushing the cart simultaneously. 
 
 It was clear he needed a helping hand to resolve it. I Jumped into the traffic and reached near to him. He was a young man, wearing jeans and a T-shirt. He had not washed his face - sleepy and tired.
 
