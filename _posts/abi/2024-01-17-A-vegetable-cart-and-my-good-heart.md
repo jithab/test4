@@ -23,7 +23,7 @@ I couldn't understand why he threw it. That too was in the middle of the road. H
 
 After a couple of steps, he stopped and turned towards me. He tried to salute me and said, “Thanks”. 
 
-I resumed my journey. My hands were full of mud and I felt gross. I could clean my hands at the restaurant, which was half an hour away. I told myself I shouldn’t feel gross about the dirty hand. It is a sign of my good heart.
+I resumed my journey. My hands were full of mud and I felt gross. I could clean my hands at the restaurant, which was half an hour away. I told myself I shouldn’t feel gross about the dirty hand because it was a sign of my good heart.
 
 While returning from the restaurant, I was still thinking about the sheet. Why did he throw it into the middle of the road? The sheet was dirty, but It just needed a normal wash.
 
