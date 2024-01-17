@@ -25,7 +25,7 @@ After a couple of steps, he stopped and turned towards me. He tried to salute me
 
 I resumed my journey. My hands were full of mud and I felt gross. I could clean my hands at the restaurant, which was half an hour away. I told myself I shouldn’t feel gross about the dirt on my hands because it was a sign of my good heart.
 
-While returning from the restaurant, I was still thinking about the sheet. Why did he throw it into the middle of the road? The sheet was dirty, but It just needed a normal wash.
+While returning from the restaurant, I was still thinking about the sheet. Why did he throw it into the middle of the road? The sheet was dirty, but It needed just a normal wash.
 
 When I reached the scene, I couldn’t see the sheet in the middle of the road. Someone removed it from the road. I was glad to know that there are good-hearted people like me who selflessly work for the betterment of society.   
 
