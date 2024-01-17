@@ -15,9 +15,9 @@ It was clear he needed a helping hand to resolve it. I Jumped into the traffic a
 
 I asked him if he needed help. He looked at me and smirked, which baffled me. I didn’t know whether I should stay or leave. A few moments later, He nodded and I interpreted it as his approval.
 
-I started untangling the sheet and it went for a couple of minutes. In the end, I pulled the sheet as strongly as possible. One corner of the sheet tore and separated from it.
+I started untangling the sheet and it went for a couple of minutes. In the end, I pulled the sheet as strongly as possible. One corner of the sheet tore and separated from the sheet.
 
-I became embarrassed and looked into his face with some sense of guilt. I couldn't see any visible emotional change on his face. I assumed it was okay for him. He took the sheet and threw it away.
+I became embarrassed and looked into his face with some sense of guilt. I couldn't see any visible emotional change on his face. He took the sheet and threw it away.
 
 I couldn't understand why he threw it. That too was in the middle of the road. He went on with the cart without saying a word to me.
 
