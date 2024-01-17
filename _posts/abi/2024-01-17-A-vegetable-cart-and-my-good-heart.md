@@ -9,7 +9,7 @@ type: abi
 <div class="abi">	
 I was walking to a restaurant to have breakfast along a busy road in the early morning.
 
-A  person was trying to push his cart in the middle of the road. Vehicles were rushing on both sides of him. A tarpaulin sheet, covering the cart, was stuck in one of the wheels of the cart, so the cart was barely moving. He was trying to untangle the sheet by pulling the sheet and pushing the cart at the same time. 
+A person was pushing his cart in the middle of the road. Vehicles were rushing on both sides of him. A tarpaulin sheet, covering the cart, was stuck in one of the wheels of the cart, so the cart was barely moving. He was trying to untangle the sheet by pulling the sheet and pushing the cart at the same time. 
 
 It was clear he needed a helping hand to resolve it. I Jumped into the traffic and reached near to him. He was a young man, wearing jeans and a T-shirt. He had not washed his face - sleepy and tired.
 
@@ -27,7 +27,7 @@ I resumed my journey. My hands were full of mud and I felt gross. I could clean 
 
 While returning from the restaurant, I was still thinking about the sheet. Why did he throw it into the middle of the road? The sheet was dirty, but It just needed a normal wash.
 
-When I reached the scene, I couldn’t see the sheet in the middle of the road. Someone removed it from the road. There are good-hearted people like me who selflessly work for the betterment of society.   
+When I reached the scene, I couldn’t see the sheet in the middle of the road. Someone removed it from the road. I was glad to know that there are good-hearted people like me who selflessly work for the betterment of society.   
 
 An old man, sad and tired, was sitting on the side of the road holding the sheet. I asked him what happened.
 
