@@ -7,10 +7,8 @@ type: abi
 ---
 
 <div class="abi">	
-I ask the theologian that if God created the Universe, who created God?
-The answer was a rhetorical question: If da Vinci painted Monalisa, who painted da Vinci?
-
-The theologian says that There is no painter associated with him since da Vinci is not a painting. Similarly, God is not a created entity because he is an uncaused first cause.
+I ask the theologian that if God created the universe, who created God?
+The answer was a rhetorical question: If da Vinci painted Monalisa, who painted da Vinci? The theologian says that there is no painter associated with da Vinci since da Vinci is not a painting. Similarly, God is not a created entity because he is an uncaused first cause.
 
 I just want to analyse this argument. On what basis, does he say God is an uncaused first cause? The same thing can be said about the universe, which would question the existence of God itself. 
 
