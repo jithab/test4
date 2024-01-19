@@ -8,9 +8,9 @@ type: abi
 
 <div class="abi">	
 I ask the theologian that if God created the universe, who created God?
-The answer was a rhetorical question: If da Vinci painted Monalisa, who painted da Vinci? The theologian says that there is no painter associated with da Vinci since da Vinci is not a painting. Similarly, God is not a created entity because he is an uncaused first cause.
+He poses a rhetorical question: If da Vinci painted Monalisa, who painted da Vinci? The theologian says that there is no painter associated with da Vinci since da Vinci is not a painting. Similarly, God is not a created entity because he is an uncaused first cause.
 
-I just want to analyse this argument. On what basis, does he say God is an uncaused first cause? The same thing can be said about the universe, which would question the existence of God itself. 
+I just want to analyse his argument. On what basis, does he say God is an uncaused first cause? The same thing can be said about the universe, which would question the existence of God itself. 
 
 My interest is in languages, not in beliefs. Consider the two crucial words - creating and painting. Painting is a subset of creating, which means the word painting contains all the characteristics of the word creating. However, the word painting has some more required characteristics like being done by paint. The word painting restricts the meaning of the word creating. All paintings are creations, but not vice versa.
 
