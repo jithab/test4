@@ -14,7 +14,7 @@ I just want to analyse his argument. On what basis, does he say God is an uncaus
 
 My interest is in languages, not in beliefs. Consider the two crucial words - creating and painting. Painting is a subset of creating, which means the word painting contains all the characteristics of the word creating. However, the word painting has some more required characteristics like being done by paint. The word painting restricts the meaning of the word creating. All paintings are creations, but not vice versa.
 
-The first question - who created God? - is a broad question. Here God can be a painting, an object, an institution, etc., whereas if you substitute the word creating with painting, you restrict the scope and only a painting can be considered.
+The first question - who created God? - is a broader question. Here God can be a painting, an object, an institution, etc., whereas if you substitute the word creating with painting, you restrict the scope and only a painting can be considered.
 
 The trick with the rhetorical question is to restrict the scope of the question and make God escape from the humiliation. 
 </div>
