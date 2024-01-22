@@ -15,7 +15,7 @@ The participants express overwhelming surprise and happiness when they hear a fo
 
 I don’t think a person can like/love several languages/cultures. One can be interested in many languages/cultures. The word interested is less intense than the word love or like.
 
-I wonder what would be in his mind when he says he likes/loves their language/culture. I don’t think he speaks the truth about the state of his mind. He could be ignoring the intensity/variation of the meaning of the word and simply using an interesting or familiar word with a similar meaning since English is not the mother tongue of most of the participants. He could just want to make the other person happy. Or Is that all he wants simply generating emotions for the sake of video content? 
+I wonder what would be in his mind when he says he likes/loves their language/culture. I don’t think he speaks the truth about the state of his mind. He could be ignoring the intensity/variation of the meaning of the word and simply using an interesting or familiar word with a similar meaning as English is not the mother tongue of most of the participants. He could just want to make the other person happy. Or Is that all he wants simply generating emotions for the sake of video content? 
 
 Or Is the premise - A person can’t like/love several languages/cultures - false?
 </div>
