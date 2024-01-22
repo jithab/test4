@@ -17,5 +17,5 @@ Only when I reached near the entry door, I noticed the door was closed. I was no
 
 A question came to my mind: If I wanted something and found a hurdle, should I give up what I wanted rather than facing the obstacle? I should overcome my challenge and fulfil my interest. I turned again and decided to challenge my intuition!
 
- We should wish for and embrace the closed doors, not the open doors. The former would challenge and enrich you. The latter won’t have any impact on your personality.
+ We should wish for and embrace the closed doors, not the open doors. The former would challenge and enrich you. The latter wouldn’t have any impact on your personality.
 </div>
