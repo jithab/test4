@@ -22,7 +22,7 @@ print(largest)
 - **Interviewer**: Rewrite without max().
 {% highlight python %}
 numbers = [2, 14, 5, 53, 26, 33, 12, 8, 9]
-largest = numbers[0]
+largest = -math.inf
 for num in numbers:
     if num > largest:
         largest = num

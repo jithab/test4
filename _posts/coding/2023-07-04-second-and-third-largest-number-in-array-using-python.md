@@ -25,14 +25,14 @@ print(second_largest)
 - **Interviewer**: Rewrite without sorted() and set().
 {% highlight python %}
 numbers = [2, 14, 5, 53, 26, 33, 53, 33, 12]
-largest = second_largest = numbers[0]
+largest = second_largest = -math.inf
 for num in numbers:
     if num == largest:
         continue
     if num > largest:
         second_largest = largest
         largest = num
-    elif num > second_largest or second_largest == largest:
+    elif num > second_largest:
         second_largest = num
 print(second_largest)
 {% endhighlight %}
@@ -41,7 +41,7 @@ print(second_largest)
 - **Interviewer**: Rewrite the code to find the third largest.
 {% highlight python %}
 numbers = [2, 14, 5, 53, 26, 33, 53, 33, 12]
-largest = second_largest = third_largest = numbers[0]
+largest = second_largest = third_largest = -math.inf
 for num in numbers:
     if num == largest:
         pass
@@ -51,10 +51,10 @@ for num in numbers:
         largest = num
     elif num == second_largest:
         pass
-    elif num > second_largest or second_largest == largest:
+    elif num > second_largest:
         third_largest = second_largest
         second_largest = num
-    elif num > third_largest or third_largest == second_largest:
+    elif num > third_largest:
         third_largest = num
 
 print(third_largest)
