@@ -18,5 +18,5 @@ It shows that it is not just the right name that makes people look at you but th
 
 The most effective way of attracting a person consists of many factors - correct name, right language, sufficient loudness, etc. The boy may not be thinking or aware of the elements of an effective call. He might have called many animals in the past, and most of them might have looked at him, which might have taught the boy how to get the attention of an animal.
 
-There was a man and a woman with the boy. I presumed they were his parents. I was puzzled when I heard them talking in Kannada: How can the child speak Malayalam if the parents are Kannadigas? Suddenly, the boy jumped out of the fence and said something in Kannada. Only then I realised the boy was not Malayali. Later, I learnt that Malayalam and Kannada have the same word for bear.
+There were a man and a woman with the boy. I presumed they were his parents. I was puzzled when I heard them talking in Kannada: How can the child speak Malayalam if the parents are Kannadigas? Suddenly, the boy jumped out of the fence and said something in Kannada. Only then I realised the boy was not Malayali. Later, I learnt that Malayalam and Kannada have the same word for bear.
 </div>
