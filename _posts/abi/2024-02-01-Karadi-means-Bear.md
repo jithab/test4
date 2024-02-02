@@ -8,7 +8,7 @@ type: abi
 <div class="abi">	
 A lion was lying on the meadow under a mango tree, taking a midday nap. I moved to the next habitat in the zoo, where two young bears were playing together.
 
-A boy was looking at the bears, standing on the step of the fence. "Karadiye, karadiye," he called the bears aloud, which can translate from Malayalam as “Hey bear, hey bear.” I had heard many Malayalees in the zoo, even though the zoo is located in a region where the local language is Kannada. I am also Malayali.
+A boy was looking at the bears, standing on the step of the fence. "Karadiye, karadiye," he called the bears aloud, which can be translated from Malayalam as “Hey bear, hey bear.” I had heard many Malayalees in the zoo, even though the zoo is located in a region where the local language is Kannada. I am also Malayali.
 
 I was curious about the call. Do the bears understand the boy was calling them? Some animals can understand words if they are trained to do so. However, there is no chance that the bears are trained.
 

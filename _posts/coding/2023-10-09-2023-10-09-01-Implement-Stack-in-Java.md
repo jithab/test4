@@ -18,7 +18,7 @@ public class Main {
             stack.push(item);
 
         while (!stack.empty())
-            System.out.println(stack.pull());
+            System.out.println(stack.pop());
             // output: 231 123 321
     }
 }
@@ -32,7 +32,7 @@ class Stack<StackDataType>  {
         top = new Item<>(data, top);
     }
 
-    public StackDataType pull() {
+    public StackDataType pop() {
         StackDataType data = top.getData();
         top = top.getNextItem();
         return data;
