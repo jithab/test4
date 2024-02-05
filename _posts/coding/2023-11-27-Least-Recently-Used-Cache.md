@@ -86,7 +86,7 @@ class CacheLRU {
 {% highlight java %}
 class CacheNode {
     String cacheKey, cacheValue;
-    CacheNode prevNode, nextNode;
+    CacheNode backNode, frontNode;
 }
 {% endhighlight %}
 
@@ -111,17 +111,17 @@ class DoubleLinkedList {
 
     public void detach(CacheNode node) {
         // Remove the node from the list.
-        if (node.nextNode == null)
-            head = node.prevNode;
+        if (node.frontNode == null)
+            head = node.backNode;
         else
-            node.nextNode.prevNode = node.prevNode;
+            node.frontNode.backNode = node.backNode;
 
-        if (node.prevNode == null)
-            tail = node.nextNode;
+        if (node.backNode == null)
+            tail = node.frontNode;
         else
-            node.prevNode.nextNode = node.nextNode;
+            node.backNode.frontNode = node.frontNode;
 
-        node.nextNode = node.prevNode = null;
+        node.frontNode = node.backNode = null;
     }
 
     public void moveToHead(CacheNode node) {
@@ -131,8 +131,8 @@ class DoubleLinkedList {
 
     public void addToHead(CacheNode node) {
         if (head != null)
-            head.nextNode = node;
-        node.prevNode = head;
+            head.frontNode = node;
+        node.backNode = head;
         head = node;
         if (tail == null)
             tail = head;
