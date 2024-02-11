@@ -21,7 +21,7 @@ People learn languages for various reasons - social,  cultural, economic, educat
 
 “Not particularly. I learned to watch movies.”
 
-I was not aware that Japanese films were popular. I might have watched some Japanese movies, but I couldn’t remember any movie names or even plots in those movies. I thought It was an opportunity to point out our shared interest and create a bond with the stranger.
+I was not aware that Japanese films were popular. I might have watched some Japanese films, but I couldn’t remember any movie names or even plots in those movies. I thought It was an opportunity to point out our shared interest and create a bond with the stranger.
 
 “I had watched a couple of Japanese movies a few years ago,” I said.
 
