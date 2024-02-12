@@ -11,9 +11,14 @@
     {%- endif -%}
     
     {% if page.type == "abi" -%}
-    {%- assign main_url = "/abi" -%}
-    {%- assign main_title = "Abi Perwad<b> The Writer</b>" -%}
-  {%- endif -%}
+      {%- assign main_url = "/abi" -%}
+      {%- assign main_title = "Abi Perwad<b> The Writer</b>" -%}
+    {%- endif -%}
+
+    {% if page.type == "pronotes" -%}
+      {%- assign main_url = "/pro-notes" -%}
+      {%- assign main_title = "<b>Pro Notes</b>" -%}
+    {%- endif -%}
 
     <a class="site-title" rel="author" href="{{ main_url | relative_url }}">
       {{ main_title }}
