@@ -13,7 +13,7 @@ I was sipping tea, having sweet, salty biscuits, and listening to a podcast. My 
 
 I asked whether she wanted it. She nodded and smiled. I opened the packet wider and moved it towards her. She took one biscuit and went out. After a few minutes, she came again. I gestured to her to serve herself the biscuits. She took one more biscuit and went out again. She came again a couple of times and served biscuits herself. 
 
-Her sister saw her eating a biscuit. She disproved it, and they both had some conversation outside my room. 
+Her sister saw her eating a biscuit. She disapproved of it, and they both had conversation outside my room. 
 
 “No, Thank you,” the toddler came near me and said with a huge smile. I just smiled back. She became happy and went out near her sister.
 
@@ -23,7 +23,7 @@ Her sister saw her eating a biscuit. She disproved it, and they both had some co
 
 She laughed and went out, saying something to her sister in their mother tongue.
 
-A few minutes later, after finishing the biscuit in her hand, she returned, took a biscuit and went out. I realised that the toddler didn’t understand the usage of the phrase no-thank-you. She was speaking her mother tongue pretty well. She started speaking English six months ago after attending pre-school.
+A few minutes later, after finishing the biscuit in her hand, she returned, took a biscuit and went out. I realised that the toddler didn’t understand the usage of the phrase no-thank-you. She was speaking her mother tongue pretty well. She started speaking English six months ago after joining pre-school.
 
 The toddler was so keen on learning English. She was picking up words and phrases from two or three examples. Why did she fail to understand the phrase no-thank-you, which was explicitly taught by her sister? 
 
