@@ -11,7 +11,7 @@ I was sipping tea, having sweet, salty biscuits, and listening to a podcast. My 
 
 “Biscuit?” she asked. I nodded.
 
-I asked whether she wanted it. She nodded and smiled. I opened the packet wider and moved it towards her. She took one biscuit and went out. After a few minutes, she came again. I gestured to her to serve herself the biscuits. She took one more biscuit and went out again. She came again a couple of times and serve biscuits herself. 
+I asked whether she wanted it. She nodded and smiled. I opened the packet wider and moved it towards her. She took one biscuit and went out. After a few minutes, she came again. I gestured to her to serve herself the biscuits. She took one more biscuit and went out again. She came again a couple of times and served biscuits herself. 
 
 Her sister saw her eating a biscuit. She disproved it, and they both had some conversation outside my room. 
 
@@ -25,7 +25,7 @@ She laughed and went out, saying something to her sister in their mother tongue.
 
 A few minutes later, after finishing the biscuit in her hand, she returned, took a biscuit and went out. I realised the toddler didn’t understand the usage of the phrase no-thank-you. She was speaking her mother tongue pretty well. She started speaking English six months ago after attending pre-school.
 
-The toddler was so keen on learning English. She was picking up words and phrases from two or three examples. Why did she fail to understand the phrase no-thank-you, which was explicitly taught by her sister. 
+The toddler was so keen on learning English. She was picking up words and phrases from two or three examples. Why did she fail to understand the phrase no-thank-you, which was explicitly taught by her sister? 
 
 Her sister didn’t know how she got the biscuits. She might have guessed I had offered a biscuit to her. Thus, she taught the toddler a phrase that could be used to refuse an offer politely. However, the phrase couldn’t be used in the current context where I didn’t offer her biscuits, but had given permission to serve herself the biscuits if she wanted.
 </div>
