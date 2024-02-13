@@ -15,9 +15,9 @@ I asked whether she wanted it. She nodded and smiled. I opened the packet wider 
 
 Her sister saw her eating a biscuit. She disproved it, and they both had some conversation outside my room. 
 
-“No, Thank you,” the toddler came near me and said with a huge smile. I just smiled back. She became happy and went out near her sister. She quickly came back.
+“No, Thank you,” the toddler came near me and said with a huge smile. I just smiled back. She became happy and went out near her sister.
 
-“No, Thank you,” she said and smiled again.
+“No, Thank you,”  she quickly came back and said.
 
 “Okay. Okay,” I smiled and nodded.
 
