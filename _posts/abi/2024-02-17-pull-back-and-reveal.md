@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Building for Rent
-date: 2024-02-14 12:34:56 +0000
+title: Pull back and Reveal
+date: 2024-02-17 12:34:56 +0000
 categories: abi
 type: abi
 ---
 
 <div class="abi">	
-Passing through an unusual crowd in front of the metro station, I reached the entry gate, where two policemen were standing apart from the station security guard. One of the policemen asked me where I wanted to go. He said the trains on the route had been temporarily halted.
+I saw a two column cartoon, where the first column had a text: When you finally get your crush's heart. And the second column text: But you don't know where to put the body.
 
-I walked back home through a different route. On the way, I saw a phrase written on the board outside the wall of a shop - Building for Rent. I thought it was funny. Why did they want to inform the public they were building the shop for rent? I couldn't see any construction going on. The shop seemed recently vacated and repainted, which bewildered me.  
+I want to analyse why this cartoon works. The main word in the cartoon is heart, which can be used to mean either a concrete object or an abstract idea. The object is one of the human organs. The idea is the imaginary organ where our feelings reside.
 
-I realised the word building was used to refer to the shop structure. I assumed the word was used to refer to the construction. In other words, my mind expanded the phrase as "We are <b>building</b> it <b>for rent</b>" instead of "This <b>building</b> is <b>for rent</b>."
+What decides which meaning should be chosen? Usually, it is the context which determines the meaning of a word. In some contexts, multiple meanings could be possible. In this context, the second meaning - the imaginary organ - seems the correct meaning for the word since the adjective "crush" is used with the word.
+
+We read the second column text, and realise there is a dead body. Now, we try to make sense of the story based on the information we collected so far. The second text would make sense only if the meaning of the heart is the first meaning - the human organ. We change our understanding, which stimulates and delights us. The technique used in this joke is called pull back and reveal.
 </div>
