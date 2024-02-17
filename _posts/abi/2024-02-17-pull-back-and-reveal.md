@@ -7,7 +7,7 @@ type: abi
 ---
 
 <div class="abi">	
-I saw a two column cartoon, where the first column had a text: When you finally get your crush's heart. And the second column text: But you don't know where to put the body.
+I saw a two-column cartoon, where the first column had the text: When you finally get your crush's heart. And the second column text: But you don't know where to put the body.
 
 I want to analyse why this cartoon works. The main word in the cartoon is heart, which can be used to mean either a concrete object or an abstract idea. The object is one of the human organs. The idea is the imaginary organ where our feelings reside.
 
