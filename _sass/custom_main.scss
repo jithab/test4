@@ -35,3 +35,8 @@
   font-style: italic;
   font-size: large;
 }
+
+ul + figure > pre {
+  margin-left: 32px;
+  margin-bottom: 32px;
+}
