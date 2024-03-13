@@ -45,7 +45,7 @@ for i in range(3, 100, 4):
 
 <p>&nbsp;</p>
 
-**2. When will else-block be excuted?**
+**2. When will else-block be excuted in a loop?**
 
 when no break occurs.
 {% highlight python %}
